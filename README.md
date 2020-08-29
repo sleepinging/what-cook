@@ -3,7 +3,7 @@
  * @Author: taowentao
  * @Date: 2020-08-29 14:17:02
  * @LastEditors: taowentao
- * @LastEditTime: 2020-08-29 14:35:20
+ * @LastEditTime: 2020-08-29 14:48:46
 -->
 
 # what-cook
@@ -60,4 +60,24 @@ what food to cook today?
 
 。。。
 
-## 开发步骤
+## 开发步骤(tomato版本)
+
+先按照标准流程来
+
+### 需求分析
+
+上面已经有了
+
+### 概要设计
+
+数据流程图
+
+模块划分
+
+类设计
+
+数据库设计
+
+### 详细设计
+
+### 测试

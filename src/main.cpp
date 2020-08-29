@@ -3,11 +3,15 @@
  * @Author: taowentao
  * @Date: 2020-08-29 14:29:57
  * @LastEditors: taowentao
- * @LastEditTime: 2020-08-29 14:30:07
- */
+ * @LastEditTime: 2020-08-29 14:43:49
+*/
+
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    cout << "what to eat today?" << endl;
     return 0;
 }
